@@ -1,0 +1,19 @@
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+body {
+  background-color: #000000;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+
+p {
+  color: #aaaaaa;
+  text-indent: 20px;
+}
+
+.jumbotron {
+  background-color: #222222;
+  text-align: center;
+}

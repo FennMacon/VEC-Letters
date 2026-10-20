@@ -16,7 +16,7 @@ Run `python3 -m http.server 4173 --bind 127.0.0.1` in this directory, then open 
 
 Gallery previews cycle once per second while hovered or focused and reset when leaving. Image arrows and keyboard left/right move within the current letter. Previous/Next letter changes letters and resets to the first image. Collection always returns to the gallery.
 
-Inspect details loads the original scan at native resolution. Use the 90° left/right buttons to rotate the scan. Scroll or drag to explore it; Fit artwork or Escape returns to the fitted view. Original scans remain in `letters/`; smaller browsing images live in `previews/`.
+The 90° left/right buttons rotate images in both fitted and full-resolution views. The orientation is preserved when switching views and resets when changing images. Inspect details loads the original scan at native resolution. Scroll or drag to explore it; Fit artwork or Escape returns to the fitted view. Original scans remain in `letters/`; smaller browsing images live in `previews/`.
 
 The original numbered letter URLs redirect to their corresponding new viewer entries.
 

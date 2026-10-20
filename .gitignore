@@ -1,0 +1,3 @@
+# Local snapshot of the original site; its source also remains in Git history.
+/backups/
+.DS_Store
